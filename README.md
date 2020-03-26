@@ -1,4 +1,4 @@
-# Hi, I'm Kathryn Callaghan!
+# Hi, I'm Katie Callaghan!
 
 ## Welcome to my personal and professional website
 
