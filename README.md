@@ -4,6 +4,8 @@
 
 This is a space for people to get to know me, the projects I'm working on and the things that interest me!
 
+Find my resume (currently ryans) **[here](https://www.luminpdf.com/viewer/5e7d23ee4210ee001761d08d)** and my LinkedIn **[here](https://www.linkedin.com/in/kathryn-callaghan-b66221198/)**.
+
 ## Education
 
 I study Economics and Psychology at Northwestern University. Over my time at NU, my favorite topics to study have been:
