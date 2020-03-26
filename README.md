@@ -1,19 +1,23 @@
-# Hi, I'm Ryan Callaghan!
+# Hi, I'm Kathryn Callaghan!
 
 ## Welcome to my personal and professional website
 
-This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
+This is a space for people to get to know me, the projects I'm working on and the things that interest me!
 
 ## Education
 
-I graduate from Northwestern University this Spring with a degree in Computer Science and Economics. Over my time at NU, my favorite topics to study were:
+I study Economics and Psychology at Northwestern University. Over my time at NU, my favorite topics to study have been:
 
-### Artifical Intelligence, Machine Learning, Data Science, Internation Trade, Financial Crises, Public Finance, Economic History, and Behavioral Economics.
+### let me know what you want here Katiebug!!!
 
-Make the above a list
+List here
 
 ## Professional Experience
 
-After graduation I am working as a Business Techology Analyst with Deloitte Consulting. I am looking forward to working on projects across the Strategy & Analytics and Customer & Marketing spaces with the hopes of better understanding both product development and business planning.
+Last Summer I worked in the Accounting Office at Greenwich Academy where I developed basic accounting skills and (whatever else you want to say here)
+
+## Club and Leadership Experience
+
+I am an active member of Nothwestern Women in Business, ISBE, Dance Marathon, Kappa Kappa Gamma, and Women's Lacrosse.
 
 
